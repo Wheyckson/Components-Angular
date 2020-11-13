@@ -7,7 +7,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 <h1 align="center">
-    <img alt="compsAng" title="#compsAng" src="./src/assets/compAngular.gif" />
+    <img alt="compsAng" title="#compsAng" src="./src/assets/compAngular.gif" width="600"/> 
 </h1>
 
 ## 🛠 Technologies
