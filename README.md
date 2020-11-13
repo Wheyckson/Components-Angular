@@ -1,6 +1,19 @@
-# Comps
+<h4 align="center"> 
+	🚀 Angular Components 🚀 
+</h4> 
+
+# About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+
+<h1 align="center">
+    <img alt="compsAng" title="#compsAng" src="./assets/compAngular.gif" />
+</h1>
+
+## 🛠 Technologies
+
+This project was developed in Angular and also in semantic-css;
+
 
 ## Development server
 
@@ -25,3 +38,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<p align="center">
+Made with ♥ by Whey :wave: [Get in touch!](https://www.linkedin.com/in/wheyckson-lopes/)
+</p>
